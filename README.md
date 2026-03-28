@@ -200,4 +200,7 @@ Data Visualization
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/79bb9eda-5130-4528-92fb-3b4defdbcfaf" />
 <br>
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/0905f19e-0bb6-4951-b6fa-32aad6d6198e" />
+<br>
+# Author
+Saniya Shaikh 
 
